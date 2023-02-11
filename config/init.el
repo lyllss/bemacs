@@ -1,7 +1,7 @@
 
 
 
-;;(require 'init-auto-save)
+(require 'init-auto-save)
 ;;(require 'init-eaf)
 (require 'init-ui)
 (require 'init-gengric)

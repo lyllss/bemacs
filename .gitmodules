@@ -1,0 +1,3 @@
+[submodule "/home/liyu/bemacs/extensions/auto-save"]
+	path = /home/liyu/bemacs/extensions/auto-save
+	url = https://github.com/manateelazycat/auto-save.git
