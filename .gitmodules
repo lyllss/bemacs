@@ -85,6 +85,3 @@
 [submodule "/home/liyu/bemacs/extensions/smartparens"]
 	path = /home/liyu/bemacs/extensions/smartparens
 	url = https://github.com/Fuco1/smartparens.git
-[submodule "/home/liyu/bemacs/extensions/rainbow-delimiters"]
-	path = /home/liyu/bemacs/extensions/rainbow-delimiters
-	url = https://github.com/Fuco1/smartparens.git
