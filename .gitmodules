@@ -1,3 +1,90 @@
 [submodule "/home/liyu/bemacs/extensions/auto-save"]
 	path = /home/liyu/bemacs/extensions/auto-save
 	url = https://github.com/manateelazycat/auto-save.git
+[submodule "/home/liyu/bemacs/extensions/posframe"]
+	path = /home/liyu/bemacs/extensions/posframe
+	url = https://github.com/tumashu/posframe.git
+[submodule "/home/liyu/bemacs/extensions/markdown-mode"]
+	path = /home/liyu/bemacs/extensions/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode.git
+[submodule "/home/liyu/bemacs/extensions/yasnippet"]
+	path = /home/liyu/bemacs/extensions/yasnippet
+	url = https://github.com/joaotavora/yasnippet.git
+[submodule "/home/liyu/bemacs/extensions/lsp-bridge"]
+	path = /home/liyu/bemacs/extensions/lsp-bridge
+	url = https://github.com/manateelazycat/lsp-bridge.git
+[submodule "/home/liyu/bemacs/extensions/clojure-mode"]
+	path = /home/liyu/bemacs/extensions/clojure-mode
+	url = https://github.com/clojure-emacs/clojure-mode.git
+[submodule "/home/liyu/bemacs/extensions/cider-mode"]
+	path = /home/liyu/bemacs/extensions/cider-mode
+	url = https://github.com/clojure-emacs/cider.git
+[submodule "/home/liyu/bemacs/extensions/inf-clojure"]
+	path = /home/liyu/bemacs/extensions/inf-clojure
+	url = https://github.com/clojure-emacs/inf-clojure.git
+[submodule "/home/liyu/bemacs/extensions/parseedn"]
+	path = /home/liyu/bemacs/extensions/parseedn
+	url = https://github.com/clojure-emacs/parseedn.git
+[submodule "/home/liyu/bemacs/extensions/parseclj"]
+	path = /home/liyu/bemacs/extensions/parseclj
+	url = https://github.com/clojure-emacs/parseclj.git
+[submodule "/home/liyu/bemacs/extensions/spinner"]
+	path = /home/liyu/bemacs/extensions/spinner
+	url = https://github.com/Malabarba/spinner.el.git
+[submodule "/home/liyu/bemacs/extensions/sesman"]
+	path = /home/liyu/bemacs/extensions/sesman
+	url = https://github.com/vspinu/sesman.git
+[submodule "/home/liyu/bemacs/extensions/blink-search"]
+	path = /home/liyu/bemacs/extensions/blink-search
+	url = https://github.com/manateelazycat/blink-search.git
+[submodule "/home/liyu/bemacs/extensions/smex"]
+	path = /home/liyu/bemacs/extensions/smex
+	url = https://github.com/nonsequitur/smex.git
+[submodule "/home/liyu/bemacs/extensions/elisp-tree-sitter"]
+	path = /home/liyu/bemacs/extensions/elisp-tree-sitter
+	url = https://github.com/emacs-tree-sitter/elisp-tree-sitter
+[submodule "/home/liyu/bemacs/extensions/grammatical-edit"]
+	path = /home/liyu/bemacs/extensions/grammatical-edit
+	url = https://github.com/manateelazycat/grammatical-edit.git
+[submodule "/home/liyu/bemacs/extensions/thing-edit"]
+	path = /home/liyu/bemacs/extensions/thing-edit
+	url = https://github.com/manateelazycat/thing-edit.git
+[submodule "/home/liyu/bemacs/extensions/vertico"]
+	path = /home/liyu/bemacs/extensions/vertico
+	url = https://github.com/minad/vertico.git
+[submodule "/home/liyu/bemacs/extensions/compat"]
+	path = /home/liyu/bemacs/extensions/compat
+	url = https://github.com/emacs-compat/compat.git
+[submodule "/home/liyu/bemacs/extensions/orderless"]
+	path = /home/liyu/bemacs/extensions/orderless
+	url = https://github.com/oantolin/orderless.git
+[submodule "/home/liyu/bemacs/extensions/marginalia"]
+	path = /home/liyu/bemacs/extensions/marginalia
+	url = https://github.com/minad/marginalia.git
+[submodule "/home/liyu/bemacs/extensions/consult"]
+	path = /home/liyu/bemacs/extensions/consult
+	url = https://github.com/minad/consult.git
+[submodule "/home/liyu/bemacs/extensions/doom-theme"]
+	path = /home/liyu/bemacs/extensions/doom-theme
+	url = https://github.com/doomemacs/themes.git
+[submodule "/home/liyu/bemacs/extensions/doom-modeline"]
+	path = /home/liyu/bemacs/extensions/doom-modeline
+	url = https://github.com/seagle0128/doom-modeline.git
+[submodule "/home/liyu/bemacs/extensions/shrink-path"]
+	path = /home/liyu/bemacs/extensions/shrink-path
+	url = https://gitlab.com/bennya/shrink-path.el.git
+[submodule "/home/liyu/bemacs/extensions/dash"]
+	path = /home/liyu/bemacs/extensions/dash
+	url = https://github.com/magnars/dash.el.git
+[submodule "/home/liyu/bemacs/extensions/s"]
+	path = /home/liyu/bemacs/extensions/s
+	url = https://github.com/magnars/s.el.git
+[submodule "/home/liyu/bemacs/extensions/f"]
+	path = /home/liyu/bemacs/extensions/f
+	url = https://github.com/rejeep/f.el.git
+[submodule "/home/liyu/bemacs/extensions/smartparens"]
+	path = /home/liyu/bemacs/extensions/smartparens
+	url = https://github.com/Fuco1/smartparens.git
+[submodule "/home/liyu/bemacs/extensions/rainbow-delimiters"]
+	path = /home/liyu/bemacs/extensions/rainbow-delimiters
+	url = https://github.com/Fuco1/smartparens.git
