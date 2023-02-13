@@ -85,3 +85,9 @@
 [submodule "/home/liyu/bemacs/extensions/smartparens"]
 	path = /home/liyu/bemacs/extensions/smartparens
 	url = https://github.com/Fuco1/smartparens.git
+[submodule "/home/liyu/bemacs/extensions/rainbow-delimiters"]
+	path = /home/liyu/bemacs/extensions/rainbow-delimiters
+	url = https://github.com/Fanael/rainbow-delimiters.git
+[submodule "/home/liyu/bemacs/extensions/aggressive-indent-mode"]
+	path = /home/liyu/bemacs/extensions/aggressive-indent-mode
+	url = https://github.com/Malabarba/aggressive-indent-mode.git
